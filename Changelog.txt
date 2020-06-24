@@ -1,0 +1,6 @@
+Version 1.1:
+-added ARCADE MODE
+
+
+Version 1.0:
+-First Release
